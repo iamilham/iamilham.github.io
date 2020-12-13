@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/*
+	Dps by Ilham Taufiq
+	cahpanjer.com | @ilham_elhufadz
+*/
+
+/*Body*/
+    body{
+        background-color: #555555;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        overflow: hidden;
+        transition: 0.5s background ease;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .main{
+    	color: black;
+        width: 600px;
+        background-color: #8d8d8d;
+        padding: 60px;
+    }
+
+/*Text*/
+    .main h1{
+    	text-transform: uppercase;
+        margin: 0;
+    }
