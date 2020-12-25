@@ -7,7 +7,7 @@
 
 /*Body*/
     body{
-        background-color: #555555;
+        background-color: #2B2D42;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -17,9 +17,9 @@
         font-family: 'Montserrat', sans-serif;
     }
     .main{
-    	color: black;
+    	color: #EDF2F4;
         width: 600px;
-        background-color: #8d8d8d;
+        background-color: #8D99AE;
         padding: 60px;
     }
 
